@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573D9EAF-16B2-43B6-B7D0-875455F4878B}|24_10\\24_10.csproj|d:\\24_10\\24_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D9EAF-16B2-43B6-B7D0-875455F4878B}|24_10\\24_10.csproj|solutionrelative:24_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D9EAF-16B2-43B6-B7D0-875455F4878B}|24_10\\24_10.csproj|D:\\24_10\\24_10\\website\\findimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D9EAF-16B2-43B6-B7D0-875455F4878B}|24_10\\24_10.csproj|solutionrelative:24_10\\website\\findimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D9EAF-16B2-43B6-B7D0-875455F4878B}|24_10\\24_10.csproj|D:\\24_10\\24_10\\log\\txtlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D9EAF-16B2-43B6-B7D0-875455F4878B}|24_10\\24_10.csproj|solutionrelative:24_10\\log\\txtlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindImg.cs",
+              "DocumentMoniker": "D:\\24_10\\24_10\\WEBSITE\\FindImg.cs",
+              "RelativeDocumentMoniker": "24_10\\WEBSITE\\FindImg.cs",
+              "ToolTip": "D:\\24_10\\24_10\\WEBSITE\\FindImg.cs",
+              "RelativeToolTip": "24_10\\WEBSITE\\FindImg.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAArwEEAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:28:35.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TxtLog.cs",
+              "DocumentMoniker": "D:\\24_10\\24_10\\Log\\TxtLog.cs",
+              "RelativeDocumentMoniker": "24_10\\Log\\TxtLog.cs",
+              "ToolTip": "D:\\24_10\\24_10\\Log\\TxtLog.cs",
+              "RelativeToolTip": "24_10\\Log\\TxtLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:23:57.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\24_10\\24_10\\Program.cs",
+              "RelativeDocumentMoniker": "24_10\\Program.cs",
+              "ToolTip": "D:\\24_10\\24_10\\Program.cs",
+              "RelativeToolTip": "24_10\\Program.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwKIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:04:21.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
